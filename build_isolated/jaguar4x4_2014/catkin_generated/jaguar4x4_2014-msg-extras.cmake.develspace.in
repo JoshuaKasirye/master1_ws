@@ -1,0 +1,2 @@
+set(jaguar4x4_2014_MESSAGE_FILES "/home/jojo/master1_ws/src/jaguar4x4_2014/msg/GPSInfo.msg;/home/jojo/master1_ws/src/jaguar4x4_2014/msg/IMUData.msg;/home/jojo/master1_ws/src/jaguar4x4_2014/msg/MotorBoardInfo.msg;/home/jojo/master1_ws/src/jaguar4x4_2014/msg/MotorBoardInfoArray.msg;/home/jojo/master1_ws/src/jaguar4x4_2014/msg/MotorData.msg;/home/jojo/master1_ws/src/jaguar4x4_2014/msg/MotorDataArray.msg")
+set(jaguar4x4_2014_SERVICE_FILES "")

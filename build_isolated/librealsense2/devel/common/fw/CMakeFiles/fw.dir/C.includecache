@@ -1,0 +1,12 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/common/fw/D4XX_FW_Image.c
+
+/home/jojo/master1_ws/src/librealsense/common/fw/empty.c
+

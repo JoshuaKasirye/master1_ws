@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jojo/master1_ws/src/librealsense/third-party/realsense-file/lz4/lz4.c
+lz4.h
+/home/jojo/master1_ws/src/librealsense/third-party/realsense-file/lz4/lz4.h
+intrin.h
+-
+stdlib.h
+-
+string.h
+-
+assert.h
+-
+stdio.h
+-
+limits.h
+-
+stdint.h
+-
+
+/home/jojo/master1_ws/src/librealsense/third-party/realsense-file/lz4/lz4.h
+stddef.h
+-
+stdint.h
+-
+

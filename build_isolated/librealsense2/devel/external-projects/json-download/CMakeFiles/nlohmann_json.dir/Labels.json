@@ -1,0 +1,43 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/CMakeFiles/nlohmann_json"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/CMakeFiles/nlohmann_json.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/CMakeFiles/nlohmann_json-complete.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-install.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-mkdir.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-download.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-update.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-patch.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-configure.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/src/nlohmann_json-stamp/nlohmann_json-build.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"nlohmann_json"
+		],
+		"name" : "nlohmann_json"
+	}
+}

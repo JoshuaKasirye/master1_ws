@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/jojo/master1_ws/src/librealsense/third-party/glad/KHR/khrplatform.h
+stdint.h
+-
+inttypes.h
+-
+stdint.h
+-
+
+/home/jojo/master1_ws/src/librealsense/third-party/glad/glad.c
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+glad/glad.h
+-
+
+/home/jojo/master1_ws/src/librealsense/third-party/glad/glad/glad.h
+windows.h
+-
+KHR/khrplatform.h
+-
+

@@ -1,0 +1,14 @@
+# Target labels
+ libcurl
+# Source files and their labels
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/CMakeFiles/libcurl
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/CMakeFiles/libcurl.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/CMakeFiles/libcurl-complete.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-install.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-mkdir.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-download.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-update.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-patch.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-configure.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-build.rule
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-test.rule

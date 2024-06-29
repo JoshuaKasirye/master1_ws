@@ -1,0 +1,46 @@
+{
+	"sources" : 
+	[
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/CMakeFiles/libcurl"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/CMakeFiles/libcurl.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/CMakeFiles/libcurl-complete.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-install.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-mkdir.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-download.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-update.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-patch.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-configure.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-build.rule"
+		},
+		{
+			"file" : "/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/src/libcurl-stamp/libcurl-test.rule"
+		}
+	],
+	"target" : 
+	{
+		"labels" : 
+		[
+			"libcurl"
+		],
+		"name" : "libcurl"
+	}
+}

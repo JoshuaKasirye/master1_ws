@@ -1,0 +1,3 @@
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/CMakeFiles/edit_cache.dir
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/CMakeFiles/rebuild_cache.dir
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/external-projects/json-download/CMakeFiles/nlohmann_json.dir

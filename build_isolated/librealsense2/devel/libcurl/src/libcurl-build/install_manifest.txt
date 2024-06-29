@@ -1,0 +1,17 @@
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/lib/libcurl.a
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/bin/curl-config
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/lib/pkgconfig/libcurl.pc
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/curlver.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/urlapi.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/options.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/easy.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/multi.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/typecheck-gcc.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/curl.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/system.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/mprintf.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/include/curl/stdcheaders.h
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/lib/cmake/CURL/CURLTargets.cmake
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/lib/cmake/CURL/CURLTargets-release.cmake
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/lib/cmake/CURL/CURLConfigVersion.cmake
+/home/jojo/master1_ws/build_isolated/librealsense2/devel/libcurl/libcurl_install/lib/cmake/CURL/CURLConfig.cmake
